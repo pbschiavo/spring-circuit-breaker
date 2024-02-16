@@ -1,7 +1,7 @@
 
 # Spring Boot + Cache + Arquitetura Hexagonal
 
-Essa é uma POC para utilização de Cache com spring cache 
+Essa é uma API spring utilizando o padrao circuitbreaker para falhas na solicitação 
 ## Documentação da API
 
 #### swagger
